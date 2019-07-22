@@ -1,0 +1,13 @@
+a {
+	background-color:purple;
+	color:white;
+}
+.important{
+	color:red;
+}
+.less{
+	color:blue;
+}
+#welcome{
+	background-color:green;
+}
